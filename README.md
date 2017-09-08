@@ -1,5 +1,5 @@
 # ordi
-Easily order import statements in Swift files.
+Easily reorder import statements in Swift files.
 
 The script will recursively find and reorder import statements in your Swift files, starting from the current directory it is placed in.
 
